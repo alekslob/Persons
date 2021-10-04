@@ -1,0 +1,111 @@
+[
+    {
+        "Name":"Василий",
+        "Patronomic":"Васильевич",
+        "Lastname":"Кукушин",
+        "Daystr":"10.23.1954",
+        "Weight":"45",
+        "Depart":"ПРВ",
+        "Exper":"10",
+        "position":["ZavCaf", "Teacher"]
+    },
+    {
+        "Name":"Петр",
+        "Patronomic":"Олегович",
+        "Lastname":"Масляня",
+        "Daystr":"08.11.1934",
+        "Weight":"70",
+        "Depart":"ПРВ",
+        "Exper":"10",
+        "position":["ZavCaf", "Teacher"]
+    },
+    {
+        "Name":"Кирилл",
+        "Patronomic":"Романов",
+        "Lastname":"Константинович",
+        "Daystr":"03.15.1985",
+        "Weight":"55",
+        "Depart":"ПРВ",
+        "Exper":"10",
+        "position":["ZavCaf", "Teacher"]
+    },
+    {
+        "Name":"Карина",
+        "Patronomic":"Марковна",
+        "Lastname":"Лапушок",
+        "Daystr":"02.20.1973",
+        "Weight":"45",
+        "Depart":"ПРВ",
+        "Exper":"9",
+        "position":["Decan", "Teacher"]
+    },
+    {
+        "Name":"Юлия",
+        "Patronomic":"Констатиновна",
+        "Lastname":"Васильевич",
+        "Daystr":"12.23.1984",
+        "Weight":"67",
+        "Depart":"ПРВ",
+        "Exper":"10",
+        "position":["ZavCaf", "Teacher"]
+
+    },
+    {
+        "Name":"Вася",
+        "Patronomic":"Васильевич",
+        "Lastname":"Кукушин",
+        "Daystr":"10.23.1998",
+        "Weight":"45",
+        "Course":"2",
+        "Group":"pm-02",
+        "Marks":[4, 5, 3, 4]
+    },
+    {
+        "Name":"Олег",
+        "Patronomic":"Олегович",
+        "Lastname":"Масляня",
+        "Daystr":"11.08.1998",
+        "Weight":"70",
+        "Course":"3",
+        "Group":"pm-01",
+        "Marks":[4, 5, 4, 5]
+    },
+    {
+        "Name":"Константин",
+        "Patronomic":"Романович",
+        "Lastname":"Константинович",
+        "Daystr":"03.15.1999",
+        "Weight":"55",
+        "Course":"2",
+        "Group":"pm-02",
+        "Marks":[4, 2, 3, 4]
+    },
+    {
+        "Name":"Мария",
+        "Patronomic":"Марковна",
+        "Lastname":"Лапушок",
+        "Daystr":"02.20.1999",
+        "Weight":"45",
+        "Course":"2",
+        "Group":"pm-02",
+        "Marks":[4, 4, 3, 3]
+    },
+    {
+        "Name": "Марк",
+        "Patronomic":"Никто",
+        "Lastname":"Васильевич",
+        "Daystr":"12.23.1944",
+        "Weight":"67"
+    },
+    {
+        "Name":"Дарья",
+        "Patronomic":"Констатиновна",
+        "Lastname":"Васильевич",
+        "Daystr":"12.23.1999",
+        "Weight":"67",
+        "Course":"2",
+        "Group":"pm-02",
+        "Marks":[4, 2, 3, 2]
+
+    }
+]

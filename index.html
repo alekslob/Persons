@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Login V13</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="main.css">
+	</head>
+	<body style="background-color: #999999;">
+		<div class="app">
+			<div class="main">
+					<div class="limiter">
+						<div class="main-container">
+						<div class="left-bg">
+							<div id="tbl">
+								<table>
+								</table>
+							</div>
+						</div>
+						<div class="right-container">
+							<span class="main-title">Вывод на экран</span>
+							<div class="forms-container">
+								<div class="form-container" data-validate="">
+									<a href="#" onclick="getT()">Преподавтели</a>
+									<a href="#" onclick="getE()">Работники</a>
+									<a href="#" onclick="getS()">Студенты</a>
+								</div>
+							</div>
+							
+							<span class="main-title">Поиск по фамилии</span>
+							<div class="forms-container">
+								<div class="form-container" data-validate="">
+								<input id="Slastname" class="input-container" type="text" placeholder="Фамилия">
+								<a href="#" onclick="search_ln()">Найти</a>
+							</div>
+
+							<span class="main-title">Поиск по среднему баллу</span>
+							<div class="forms-container">
+								<div class="form-container" data-validate="">
+								<input id="Smark" class="input-container" type="text" placeholder="Оценка">
+								<a href="#" onclick="search_am()">Найти</a>
+							</div>
+							<span class="main-title">Загрузка файла</span>
+							<div class="forms-container">
+								<div class="form-container" data-validate="">
+								<label class="custom-file-upload">
+									<input type="file" id="bd"/>
+									Выбрать файл
+								</label>
+								<a href="#" onclick="addFileInfo()">Отправить</a>
+								</div>
+							</div>
+						</div>
+						</div>
+						</div>
+						</div>
+					</div>
+			</div>
+		</div>
+		<script src="script.js"></script>
+	</body>
+</html>
